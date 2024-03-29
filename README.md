@@ -1,10 +1,7 @@
 # Out-of-Core Group By Aggregate
 
-*Due Wed June 1, 11:59 pm*
-
 In this assignment, you will implement an out-of-core
-version of the group by aggregate (aggregation by key)
-seen in lecture. You will have a set memory limit and 
+version of the group by aggregate (aggregation by key). You will have a set memory limit and 
 you will have to count the number of times a string shows 
 up in an iterator. Your program should work for any limit 
 greater than 20.
